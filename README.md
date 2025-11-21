@@ -43,7 +43,7 @@ Aucune installation de dépendances nécessaire !
 
 ## 👤 Auteur
 
-Votre Nom - [@meDGaz](https://github.com/meDGaz)
+Mohamed Gazzoun - [@meDGaz](https://github.com/meDGaz)
 
 ---
 
