@@ -12,7 +12,7 @@ Un site web one-page élégant et responsive pour un restaurant de pizzas, déve
 
 <div align="center">
   <a href="https://medgaz.github.io/restaurant/" target="_blank">
-    <img src="imag/screenshot.png" alt="Aperçu du site Pizza Restaurant" width="800">
+    <img src="img/screenshot.png" alt="Aperçu du site Pizza Restaurant" width="800">
   </a>
 </div>
 
