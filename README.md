@@ -1,6 +1,30 @@
 # 🍕 Pizza Restaurant - One Page Website
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://medgaz.github.io/restaurant/)
+
+</div>
+
 Un site web one-page élégant et responsive pour un restaurant de pizzas, développé exclusivement en HTML5 et CSS3 pur, sans framework ni bibliothèque JavaScript.
+
+## 📸 Aperçu
+
+<div align="center">
+  <a href="https://medgaz.github.io/restaurant/" target="_blank">
+    <img src="imag/screenshot.png" alt="Aperçu du site Pizza Restaurant" width="800">
+  </a>
+</div>
+
+## 🌐 Démo en Ligne
+
+**👉 [Voir le site en direct](https://medgaz.github.io/restaurant/)**
+
+Un site web one-page élégant et responsive pour un restaurant de pizzas, développé exclusivement en HTML5 et CSS3 pur, sans framework ni bibliothèque JavaScript.
+
+## 🌐 Démo en Ligne
+
+**[👉 Voir la démo](https://medgaz.github.io/restaurant/)**
 
 ## 📋 Description
 
