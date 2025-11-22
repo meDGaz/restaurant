@@ -1,4 +1,4 @@
-# 🍕 Pizza Restaurant - One Page Website
+ 🍕 Pizza Restaurant - One Page Website
 
 <div align="center">
 
@@ -6,69 +6,62 @@
 
 </div>
 
-Un site web one-page élégant et responsive pour un restaurant de pizzas, développé exclusivement en HTML5 et CSS3 pur, sans framework ni bibliothèque JavaScript.
+A modern, responsive one-page website for a pizza restaurant, built exclusively with pure HTML5 and CSS3, without any framework or JavaScript library.
 
-## 📸 Aperçu
+## 📸 Preview
 
 <div align="center">
   <a href="https://medgaz.github.io/restaurant/" target="_blank">
-    <img src="img/screenshot.png" alt="Aperçu du site Pizza Restaurant" width="800">
+    <img src="img/screenshot.png" alt="Pizza Restaurant Website Preview" width="800">
   </a>
 </div>
 
-## 🌐 Démo en Ligne
+## 🌐 Live Demo
 
-**👉 [Voir le site en direct](https://medgaz.github.io/restaurant/)**
-
-Un site web one-page élégant et responsive pour un restaurant de pizzas, développé exclusivement en HTML5 et CSS3 pur, sans framework ni bibliothèque JavaScript.
-
-## 🌐 Démo en Ligne
-
-**[👉 Voir la démo](https://medgaz.github.io/restaurant/)**
+**👉 [View Live Site](https://medgaz.github.io/restaurant/)**
 
 ## 📋 Description
 
-Ce projet présente un site vitrine moderne pour un restaurant de pizzas, conçu avec une approche minimaliste utilisant uniquement les technologies web natives. L'interface offre une expérience utilisateur fluide et intuitive sur tous les appareils.
+This project showcases a modern showcase website for a pizza restaurant, designed with a minimalist approach using only native web technologies. The interface provides a smooth and intuitive user experience across all devices.
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-- **Design Responsive** : Adaptation parfaite aux écrans mobiles, tablettes et desktop
-- **Navigation fluide** : Menu de navigation avec ancres vers les différentes sections
-- **Sections principales** :
-  - Hero/Bannière d'accueil accrocheuse
-  - Menu des pizzas avec descriptions et prix
-  - Section À propos du restaurant (Notre Histoire)
-  - Coordonnées et Horaires
-  - Footer avec informations pratiques
+- **Responsive Design**: Perfect adaptation to mobile, tablet, and desktop screens
+- **Smooth Navigation**: Navigation menu with anchor links to different sections
+- **Main Sections**:
+  - Eye-catching hero/banner section
+  - Pizza menu with descriptions and prices
+  - About section (Our Story)
+  - Contact information and opening hours
+  - Footer with practical information
 
-## 🛠️ Technologies Utilisées
+## 🛠️ Built With
 
-- **HTML5** : Structure sémantique et accessible
-- **CSS3** : Styling moderne avec Flexbox/Grid, animations et transitions
+- **HTML5**: Semantic and accessible structure
+- **CSS3**: Modern styling with Flexbox/Grid, animations, and transitions
 
-## 🚀 Installation et Utilisation
+## 🚀 Installation and Usage
 
-1. Clonez le repository :
+1. Clone the repository:
 ```bash
 git clone https://github.com/meDGaz/restaurant.git
 ```
 
-2. Ouvrez le fichier `index.html` dans votre navigateur préféré
+2. Open the `index.html` file in your preferred browser
 
-Aucune installation de dépendances nécessaire ! 
+No dependencies required!
 
-## 📱 Compatibilité
+## 📱 Browser Compatibility
 
-- Chrome (dernière version)
-- Firefox (dernière version)
-- Safari (dernière version)
-- Edge (dernière version)
+- Chrome (latest version)
+- Firefox (latest version)
+- Safari (latest version)
+- Edge (latest version)
 
-
-## 👤 Auteur
+## 👤 Author
 
 Mohamed Gazzoun - [@meDGaz](https://github.com/meDGaz)
 
 ---
 
-⭐ N'hésitez pas à mettre une étoile si ce projet vous plaît !
+⭐ Feel free to star this project if you like it!
